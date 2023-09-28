@@ -1,3 +1,3 @@
 def call(){
-    sh './mvnbuild.py'
+    python3 mvnbuild.py
 }
