@@ -1,2 +1,3 @@
-def upload()
-    sh 
+def call(){
+    sh './jfrogup.py'
+}
